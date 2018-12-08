@@ -1,3 +1,8 @@
+// Type definitions for chai-almost 1.0.1
+// Project: https://github.com/nmuldavin/chai-almost#readme
+// Definitions by: Lennard Schulz <https://github.com/kclnn>
+// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
+
 declare namespace ChaiAlmost {
     interface DeepAlmost {
         (value: any, toleranceOverride?: number): Chai.Assertion;
