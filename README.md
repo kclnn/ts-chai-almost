@@ -1,7 +1,7 @@
 # ts-chai-almost
 TypeScript types for chai-almost
 
-Types are in `/test/@types/chai-almost`. See `/test/test.spec.ts` for usage example.
+Types are now in the official TypeScript types repository and can be added to any project via `npm install --save-dev @types/chai-almost`. See `/test/test.spec.ts` for usage example.
 
 Run this demo project as follows:
 1. Download or clone this repository.
